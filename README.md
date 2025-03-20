@@ -55,4 +55,4 @@ Consistent Revenue Growth: Despite fluctuations, overall revenue and profit tren
 4. Opportunities for Optimization: Improving product quality and customer experience in high-return models can further boost profitability.
 
 ## DashBoard
-<img src="Dashboard.png" alt="Description" width="300">
+<img src="Dashboard.png" alt="Description" width="1080" height="580">
